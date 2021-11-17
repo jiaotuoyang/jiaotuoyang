@@ -1,5 +1,5 @@
 major in Electrial Engineering;
-currently learning c++; // it's so hard
+currently learning c++; /* it's so hard*/
 return 0;
 <!---
 jiaotuoyang/jiaotuoyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
